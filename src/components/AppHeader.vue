@@ -32,7 +32,7 @@ watch(() => interview.studentName, val => interview.persistStudentName(val))
         <div>
           <div class="flex items-center space-x-2">
             <h1 class="font-bold text-lg sm:text-xl tracking-tight leading-none text-white">Virtual Job Interview Lab</h1>
-            <span class="bg-emerald-500/20 text-emerald-300 text-xs font-semibold px-2.5 py-0.5 rounded-full border border-emerald-500/30">v3.0 Vue Edition</span>
+            <span class="bg-emerald-500/20 text-emerald-300 text-xs font-semibold px-2.5 py-0.5 rounded-full border border-emerald-500/30">v2.5 English Edition</span>
           </div>
           <p class="text-xs text-slate-400 mt-1">
             Designed by: <span class="text-emerald-400 font-medium">Dian Hermayani, S.S., M.Pd.</span>
